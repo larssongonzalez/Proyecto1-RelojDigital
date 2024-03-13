@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\Debug\Proyecto1-3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Proyecto1-3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Proyecto1-3.map</FILE>
+  <FILE>Proyecto1-3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>23</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>372</LINE></ISR_PCINT0>
+  <ISR_TIMER1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>389</LINE></ISR_TIMER1>
+  <ISR_TIMER0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>408</LINE></ISR_TIMER0>
+  <SETUP><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>35</LINE></SETUP>
+  <INICIO_T1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>331</LINE></INICIO_T1>
+  <INICIO_T0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>316</LINE></INICIO_T0>
+  <LOOP><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>99</LINE></LOOP>
+  <M0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>112</LINE></M0>
+  <M1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>114</LINE></M1>
+  <M2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>116</LINE></M2>
+  <M3><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>118</LINE></M3>
+  <M00><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>120</LINE></M00>
+  <MODO0><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>123</LINE></MODO0>
+  <MODO1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>207</LINE></MODO1>
+  <MODO2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>291</LINE></MODO2>
+  <MODO3><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>300</LINE></MODO3>
+  <MODORESET><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>307</LINE></MODORESET>
+  <MIN1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>179</LINE></MIN1>
+  <MIN2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>183</LINE></MIN2>
+  <HORA1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>187</LINE></HORA1>
+  <HORA2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>191</LINE></HORA2>
+  <REST><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>195</LINE></REST>
+  <TABLA7SEG><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>426</LINE></TABLA7SEG>
+  <DELAY><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>350</LINE></DELAY>
+  <RESET><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>199</LINE></RESET>
+  <DIA1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>265</LINE></DIA1>
+  <DIA2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>269</LINE></DIA2>
+  <MES1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>277</LINE></MES1>
+  <MES2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>281</LINE></MES2>
+  <OVER><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>273</LINE></OVER>
+  <OVERMES><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>285</LINE></OVERMES>
+  <DELAY1><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>352</LINE></DELAY1>
+  <DELAY2><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>356</LINE></DELAY2>
+  <DELAY3><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>360</LINE></DELAY3>
+  <DELAY4><FILE>C:\Users\larss\Documents\Atmel Studio\7.0\Proyecto1-3\Proyecto1-3\main.asm</FILE><LINE>364</LINE></DELAY4>
+ </LABELS>
+</ASSEMBLER_INFO>
